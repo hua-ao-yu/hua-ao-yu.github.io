@@ -104,9 +104,9 @@ translate_langs:
 
 # You can choose a theme color
 # Default theme colors as below:
-coolblack: #090a0b
-spacegrey: #353535
-snowwhite: #ffffff
+coolblack: '#090a0b'
+spacegrey: '#353535'
+snowwhite: '#ffffff'
 
 theme_color: coolblack
 #
