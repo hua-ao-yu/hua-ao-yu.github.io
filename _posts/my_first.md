@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '我第一个blog'
+title: My first blog
 subtitle: HAY first blog
 author: HAY
 categories: jekyll
