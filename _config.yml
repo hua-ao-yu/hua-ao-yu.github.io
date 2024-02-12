@@ -104,11 +104,11 @@ translate_langs:
 
 # You can choose a theme color
 # Default theme colors as below:
-# coolblack: #090a0b
-# spacegrey: #353535
-# snowwhite: #ffffff
-#
-# theme_color: snowwhite
+coolblack: #090a0b
+spacegrey: #353535
+snowwhite: #ffffff
+
+theme_color: coolblack
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -162,8 +162,8 @@ translate_langs:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "花傲语的个人博客"
+#     subheading: "今日方知我是我"
 #     banner: "Your image url"
 
 # Banner default settings
