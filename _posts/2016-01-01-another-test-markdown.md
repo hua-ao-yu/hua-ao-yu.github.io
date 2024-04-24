@@ -9,7 +9,6 @@ tags: [test]
 Put the math expression within <span>$</span>...\$:
 
 \\(\LaTeX{}\\)
-{% 这部分是数学公式 %}
 
 $\Pi$
 
