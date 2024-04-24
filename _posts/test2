@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Another test markdown
-subtitle: Each post also has a subtitle
+title: My test md
+subtitle: A subtitle
 categories: markdown
-tags: [test]
+tags: [深度学习] [机器学习] [笔记]
 ---
 
 Put the math expression within <span>$</span>...\$:
