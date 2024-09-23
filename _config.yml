@@ -21,7 +21,7 @@ repository               : "hua-ao-yu/hua-ao-yu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kula.JPG"
+  avatar           : "Kula.jpg"
   name             : "Li Yizhen"
   pronouns         : # example: "she/her"  
   bio              : "Recognize Yourself Everyday"
