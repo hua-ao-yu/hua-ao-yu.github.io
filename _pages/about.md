@@ -1,13 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简历 / Individual Resume"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+李懿真(2000.01)，于2018-2022年就读于吉林大学仪器科学级电气工程学院测控技术与仪器专业，获得工学学位和院级优秀毕业生称号。
+目前于天津大学医学工程与转化医学研究院攻读硕士，导师为[许敏鹏教授](https://mctu.tju.edu.cn/info/1193/3489.htm)，我的研究方向主要包括基于深度学习的脑机接口模式识别、微弱时域特征脑电信号的数据增强、基于Unity的脑控游戏系统。
+
+已获部分奖项 / Selected Awards
+======
+2022.06  2021-2022学年吉林大学一等奖学金、校优秀学生称号、道德风尚奖
+2022.04  “吉林大学优秀共青团员”荣誉称号(2021-2022)
+2022.04  吉林大学仪器科学级电气工程学院立创杯EDA设计竞赛一等奖
+2021.12  2020-2021学年吉林大学二等奖学金、学术科技奖
+2021.12  吉林大学十佳班级集体荣誉
+2021.06  吉林大学“品味 心晴”微电影大赛优秀奖
+2021.05  “吉林大学优秀共青团员”荣誉称号(2020-2021)
+2021.05  吉林大学仪器科学级电气工程学院立创杯EDA设计竞赛二等奖、院级电子设计竞赛一等奖
+2021.04  吉林大学“挑战杯”大学生课外学术作品竞赛二等奖
+2021.01  2018-2019学年吉林大学二等奖学金
+2020.12  吉林省大学生电子设计竞赛“金花杯”三等奖
+2020.04  2018-2019学年吉林大学一等奖学金、校优秀学生称号
+2019.10  第十一届吉林省大学生数学竞赛一等奖
+2019.10  吉林大学大学生科技协会“优秀部员”称号
+2019.09  赴台湾逢甲大学暑期交流，获结业证书
+2019.04  “吉林大学优秀共青团员”荣誉称号(2018-2019)
+2019.03  吉林大学仪器科学级电气工程学院寒假社会实践一等奖
+
 
 A data-driven personal website
 ======
