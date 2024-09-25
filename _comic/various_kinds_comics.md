@@ -1,10 +1,20 @@
 ---
-title: 'Personaly Favorite Comic'
-date: 2024-09-25
-permalink: /comic/
-tags:
-  - 日漫
-  - 美漫
+title: "漫画、电影等作品"
+collection: comic
+type: "Undergraduate course"
+permalink: /comic/various_kinds_comics
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-This post will show up by default.. ..
+This is a description of a teaching experience. You can use markdown like any other post.
+
+日漫
+======
+
+国漫
+======
+
+电视剧
+======
