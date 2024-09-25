@@ -2,7 +2,7 @@
 title: "日漫"
 collection: comic
 type: "Personal favorite comics and TV series"
-permalink: /comic/2024-comic-catalogue
+permalink: /comic/2024-catalogue-Jap
 date: 2014-01-01
 location: "China"
 ---
