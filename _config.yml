@@ -223,7 +223,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  comic: # 一些个人喜好的漫画、动漫和剧
+  comic:
     output: true
     permalink: /:collection/:path/
 
@@ -291,6 +291,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
