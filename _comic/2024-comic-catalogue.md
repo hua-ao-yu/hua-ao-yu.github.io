@@ -13,17 +13,12 @@ Here is a record of personal favorite comics and TV series and some interesting 
 
 漫画网站
 ======
-[拷贝漫画](https://www.copymanga.site/)
-
-[动漫之家](http://manhua.dmzj.com/)
-
-[漫画人](https://www.1kkk.com/)
-
-[天天看](https://www.ttkmh.com/)
-
-[包子漫画](https://www.czmanga.com/)
-
-[看漫画](https://m.manhuagui.com/)
+[拷贝漫画](https://www.copymanga.site/) <br>
+[动漫之家](http://manhua.dmzj.com/) <br>
+[漫画人](https://www.1kkk.com/) <br>
+[天天看](https://www.ttkmh.com/) <br>
+[包子漫画](https://www.czmanga.com/) <br>
+[看漫画](https://m.manhuagui.com/) <br>
 
 觉醒纪元（断更）
 黑瞳（惊叹之夜）
@@ -41,10 +36,7 @@ Here is a record of personal favorite comics and TV series and some interesting 
 古明地餐厅 
 本来身为奴隶，买了鬼做奴隶结果却因为精力太旺盛了好想扔掉 
 愚者之夜
-群聚一堂！西顿学园
-饲主兽人和宠物女子高中生 
-不良小学生和宅姐姐 
-暴龙女友
+
 公然猥褻魔法少女
 血色厄運
 1000円英雄
@@ -71,21 +63,24 @@ Re:teen
 
 日常
 ======
-
+群聚一堂！西顿学园 <br>
+饲主兽人和宠物女子高中生  <br>
+不良小学生和宅姐姐  <br>
+暴龙女友 <br>
 
 非日常
 ======
 动物人间 <br>
-藏锋行 &nbsp;
-黑暗集会 &nbsp;
-雷雷雷
-深东京
-极度分裂
-大侦探福尔马林
-我家大師兄腦子有坑
-我不是教主
-葬送的芙丽莲
-日月同错
+藏锋行 <br>
+黑暗集会 <br>
+雷雷雷 <br>
+深东京 <br>
+极度分裂 <br>
+大侦探福尔马林 <br>
+我家大師兄腦子有坑 <br>
+我不是教主 <br>
+葬送的芙丽莲 <br>
+日月同错 <br>
 
 电视剧
 ======
