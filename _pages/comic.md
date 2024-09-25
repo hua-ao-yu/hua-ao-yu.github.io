@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Comic"
+title: "Comics"
 permalink: /comic/
 author_profile: true
 ---
