@@ -1,20 +1,7 @@
 ---
-title: "漫画、电影等作品"
+title: "漫画"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: comic
-type: "Undergraduate course"
-permalink: /comic/various_kinds_comics
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-日漫
-======
-
-国漫
-======
-
-电视剧
-======
+这里是测试 
