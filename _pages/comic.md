@@ -13,7 +13,7 @@ Skills
 ======
 * 测试1
 * 测试2
-  * Sub-skill 2.1
+  * 测试2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
