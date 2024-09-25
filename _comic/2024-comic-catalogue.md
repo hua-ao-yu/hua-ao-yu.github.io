@@ -14,10 +14,15 @@ Here is a record of personal favorite comics and TV series and some interesting 
 漫画网站
 ======
 [拷贝漫画](https://www.copymanga.site/)
+
 [动漫之家](http://manhua.dmzj.com/)
+
 [漫画人](https://www.1kkk.com/)
+
 [天天看](https://www.ttkmh.com/)
+
 [包子漫画](https://www.czmanga.com/)
+
 [看漫画](https://m.manhuagui.com/)
 
 觉醒纪元（断更）
@@ -26,8 +31,6 @@ Here is a record of personal favorite comics and TV series and some interesting 
 星海镖师
 大唐不断网
 她打发时间逐渐堕落的一天又一天
-
-
 羅德島閑逛部
 我的食物看起來很可愛
 返魂少女
@@ -72,8 +75,8 @@ Re:teen
 
 非日常
 ======
-动物人间
-藏锋行
+动物人间/;
+藏锋行/;
 黑暗集会
 雷雷雷
 深东京
