@@ -77,6 +77,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  software:
+    title: 'Computer Software Copyright'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
