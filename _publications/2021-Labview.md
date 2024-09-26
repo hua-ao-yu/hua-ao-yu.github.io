@@ -13,3 +13,5 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 
 本[说明书](http://hua-ao-yu.github.io/files/基于LabVIEW的电脑串口可数据处理系统.pdf)为指导串口人员使用本软件进行电脑串口与下位机通信而编写，希望该手册使他们在使用本软件过程中能起到无师自通的作用。
 本手册介绍了本软件的界面布局、按键设置以及使用方法。
+
+<img src='/images/500x300.png'>
