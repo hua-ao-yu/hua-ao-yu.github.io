@@ -78,11 +78,11 @@ publication_category:
   books:
     title: 'Books'
   software:
-    title: 'Computer Software Copyright'
+    title: '软件著作权 / Computer Software Copyright'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '期刊 / Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: '会议 / Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
