@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Li Yizhen / Site Title"
+title                    : "Li Yizhen / Resume"
 title_separator          : "-"
 name                     : &name "Li Yizhen"
 description              : &description "personal description"
