@@ -28,3 +28,6 @@ main:
 
   - title: "Comic"
     url: /comic/
+
+  - title: "Knowledge"
+    url: /knowledge/
