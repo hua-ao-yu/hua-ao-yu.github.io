@@ -24,7 +24,7 @@ Here is a record of personal favorite comics and TV series and some interesting 
 黑瞳（惊叹之夜）
 血族bloodline
 星海镖师
-大唐不断网
+
 羅德島閑逛部
 
 公然猥褻魔法少女
@@ -59,8 +59,9 @@ Hero Killer
 蜥蜴怪獸 <br>
 隔壁黑木小姐不善喝酒 <br>
 老夫老妻重返青春 <br>
-快把我哥带走 <br>
+快把我哥带走
 贫穷父女 <br>
+大唐不断网 <br>
 
 非日常
 ======
