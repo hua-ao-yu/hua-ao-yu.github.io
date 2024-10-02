@@ -1,16 +1,16 @@
 ---
-title: "线性可分和非线性可分"
-collection: knowledge
-type: "knowledge"
-permalink: /knowledge/linear_and_nonlinear
+title: "个人学术网站制作教程"
+collection: skills
+type: "skills"
+permalink: /skills/academic-pages
 date: 2024-10-01
 location: "China"
 ---
 
 ======
 
-# 1、什么是线性可分与线性不可分
-**线性可分**：
+# 1、修改academicpages
+**1.1、各文件夹说明**：
 <br> &emsp; 数据集被称为**线性可分**，如果**可以用一个线性决策边界将不同类别的数据完全分开**。这种边界可以是二维空间中的直线、三维空间中的平面，或更高维空间中的超平面。
 <br>
 **线性不可分**：
