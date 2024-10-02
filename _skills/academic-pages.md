@@ -10,35 +10,54 @@ location: "China"
 ======
 
 # 1、修改academicpages
-**1.1、各文件夹说明**：
+**1.1、各文件夹说明**： <br>
 <img src='/images/blogs/skills/academicpages/各文件夹说明1.png' width="500"> <br>
 <img src='/images/blogs/skills/academicpages/各文件夹说明2.png' width="500"> <br>
-**1.2、简介设置**：
+**1.2、简介设置**： <br>
 <br> &emsp; （1）点击文件夹_pages中的about.md <br>
 <img src='/images/blogs/skills/academicpages/设置about.md.png' width="500"> <br>
 <br> &emsp; （2）填写个人简介 <br>
 <img src='/images/blogs/skills/academicpages/个人简介.png' width="500"> <br>
-
-
-
-<br> &emsp; 数据集被称为**线性可分**，如果**可以用一个线性决策边界将不同类别的数据完全分开**。这种边界可以是二维空间中的直线、三维空间中的平面，或更高维空间中的超平面。
-<br>
-**线性不可分**：
-<br> &emsp; 数据集被称为**线性不可分**，如果**无法用单一的线性决策边界将不同类别的数据完全分开**。在这种情况下，不同类别的数据点交织在一起，无法用一条直线、平面或超平面分隔开，需要使用非线性模型或通过特征变换将数据映射到更高维空间。 <br>
-线性可分例子：<br>
-<img src='/images/blogs/knowledges/线性可分/线性可分.png' width="500"> <br>
-线性不可分例子：
-<br> &emsp; aVEP四分类数据，四种颜色代表四个类别，使用t-SNE可视化。
-<img src='/images/blogs/knowledges/线性可分/线性不可分.png' width="500">
-
-# 2、线性不可分数据的解决办法
-
-**1、非线性模型** <br> 
-&emsp; 决策树：通过树结构将数据分割成不同的类别。 <br>
-&emsp; 随机森林：结合多棵树进行分类，提升性能。 <br>
-&emsp; K-临近算法（KNN）：通过邻域中的样本进行分类。 <br>
-**2、特征变换** <br> 
-&emsp; 多项式特征：将原始特征扩展为多项式特征，增加特征维度，从而可能使数据在扩展后的特征空间中线性可分。 <br>
-&emsp; 核方法：使用核函数（如径向基核RBF核、多项式核）将数据映射到更高维空间，使其在高维空间中线性可分。如核支持向量机。 <br>
-**3、深度学习** <br> 
-&emsp; 神经网络：使用多层感知机（MLP）或卷积神经网络（CNN）等深度学习模式来处理复杂的非线性数据。深度网络能够通过多个层次的非线性变换学习复杂的数据模式。
+<br> &emsp; （3）下面加======代表加粗，且可以添加各种各样的符号 <br>
+<img src='/images/blogs/skills/academicpages/加粗.png' width="500"> <br>
+**1.3、设置个人网页配置**： <br>
+<br> &emsp; （1）打开_config.yml <br>
+<img src='/images/blogs/skills/academicpages/打开config.png' width="500"> <br>
+<br> &emsp; （2）配置左侧个人信息 <br>
+<img src='/images/blogs/skills/academicpages/配置个人信息.png' width="500"> <br>
+注意，如果出现上传图片无法显示的问题，可能有以下原因： <br>
+1、图片无法使用，这种情况多出现于直接从网上下载的图片，如果想用的话建议截图然后保存（当然有的网图是可以的）； <br>
+2、图片格式不对，可以尝试jpg、png格式，网上有的人说使用jpg格式的图片不行，但是我这里可以。 <br>
+<br> &emsp; （3）编辑publication <br>
+在_config.yml中： <br>
+<img src='/images/blogs/skills/academicpages/配置publication.png' width="500"> <br>
+publication中不同的出版物，像这个就是这样的。
+<img src='/images/blogs/skills/academicpages/publication结果.png' width="500"> <br>
+<br> &emsp; （4）编辑导航栏——collections <br>
+找到_config.yml中的collections，复制其他的导航栏，然后改一下名字： <br>
+<img src='/images/blogs/skills/academicpages/编辑导航栏collections.png' width="500"> <br>
+<br> &emsp; （5）编辑导航栏——defaults <br>
+找到\_config.yml中的defaults：
+<img src='/images/blogs/skills/academicpages/编辑导航栏defaults.png' width="500"> <br>
+复制其他的代码，然后重命名： <br>
+<img src='/images/blogs/skills/academicpages/编辑导航栏defaults例子.png' width="500"> <br>
+<br> &emsp; （6）编辑导航栏，使其出现 <br>
+找到\_data目录，打开navigation.yml
+<img src='/images/blogs/skills/academicpages/编辑navigation.png' width="500"> <br>
+复制并添加导航栏： <br>
+<img src='/images/blogs/skills/academicpages/复制并添加导航栏.png' width="500"> <br>
+<br> &emsp; （7）新导航栏的命名 <br>
+新建一个文件夹，最好是与其他的相同，如_talks、\_teaching：<br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名1.png' width="500"> <br>
+在_pages文件夹下创建一个html或者md，如comic.html <br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名2.png' width="500"> <br>
+comic.html的内容如下，其中的内容表示的是代码会从comic文件夹下寻找文件，然后公布： <br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名3.png' width="500"> <br>
+公布编辑的comic，在naigation.yml中添加相应代码： <br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名4.png' width="500"> <br>
+编辑发布内容：<br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名5.png' width="500"> <br>
+编辑blog的设置，内容正常输入就行：<br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名6.png' width="500"> <br>
+发布后内容如下：<br>
+<img src='/images/blogs/skills/academicpages/新导航栏命名7.png' width="500"> <br>
