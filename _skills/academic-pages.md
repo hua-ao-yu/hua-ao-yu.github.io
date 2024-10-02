@@ -11,6 +11,16 @@ location: "China"
 
 # 1、修改academicpages
 **1.1、各文件夹说明**：
+<img src='/images/blogs/skills/academicpages/各文件夹说明1.png' width="500"> <br>
+<img src='/images/blogs/skills/academicpages/各文件夹说明2.png' width="500"> <br>
+**1.2、简介设置**：
+<br> &emsp; （1）点击文件夹_pages中的about.md <br>
+<img src='/images/blogs/skills/academicpages/设置about.md.png' width="500"> <br>
+<br> &emsp; （2）填写个人简介 <br>
+<img src='/images/blogs/skills/academicpages/个人简介.png' width="500"> <br>
+
+
+
 <br> &emsp; 数据集被称为**线性可分**，如果**可以用一个线性决策边界将不同类别的数据完全分开**。这种边界可以是二维空间中的直线、三维空间中的平面，或更高维空间中的超平面。
 <br>
 **线性不可分**：
