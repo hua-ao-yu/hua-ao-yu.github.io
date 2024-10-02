@@ -216,12 +216,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  comic: # 漫画、电视剧
-    output: true
-    permalink: /:collection/:path/
   knowledge: # 一些知识点
     output: true
     permalink: /:collection/:path/  
+  skills: # 一些知识点
+    output: true
+    permalink: /:collection/:path/  
+  comic: # 漫画、电视剧
+    output: true
+    permalink: /:collection/:path/
+
   publications:
     output: true
     permalink: /:collection/:path/
@@ -275,6 +279,15 @@ defaults:
   - scope:
       path: ""
       type: knowledge
+    values:
+      layout: single
+      author_profile: true
+      share: False
+      comments: true
+  # _skills
+  - scope:
+      path: ""
+      type: skills
     values:
       layout: single
       author_profile: true
