@@ -13,4 +13,8 @@ Here is a record of personal favorite comics and TV series and some interesting 
 
 漫画网站
 ======
-[拷贝漫画](https://www.copymanga.site/) <br>
+
+<img src='/images/knowledge/线性可分/线性可分.png' width="500">
+
+
+<img src='/images/knowledge/线性可分/线性不可分.png' width="500">
