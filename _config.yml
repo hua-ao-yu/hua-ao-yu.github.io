@@ -218,6 +218,9 @@ collections:
     permalink: /:collection/:path/
   comic: # 漫画、电视剧
     output: true
+    permalink: /:collection/:path/
+  knowledge: # 一些知识点
+    output: true
     permalink: /:collection/:path/  
   publications:
     output: true
@@ -263,6 +266,15 @@ defaults:
   - scope:
       path: ""
       type: comic
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _knowledge
+  - scope:
+      path: ""
+      type: knowledge
     values:
       layout: single
       author_profile: true
