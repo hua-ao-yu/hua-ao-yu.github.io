@@ -14,7 +14,7 @@ Here is a record of personal favorite comics and TV series and some interesting 
 漫画网站
 ======
 
-<img src='/images/blogs/knowledge/线性可分/线性可分.png' width="500">
+<img src='/images/blogs/knowledges/线性可分/线性可分.png' width="500">
 
 
-<img src='/images/blogs/knowledge/线性可分/线性不可分.png' width="500">
+<img src='/images/blogs/knowledges/线性可分/线性不可分.png' width="500">
