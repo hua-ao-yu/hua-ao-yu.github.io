@@ -269,7 +269,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: False
       comments: true
   # _knowledge
   - scope:
@@ -278,7 +278,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: False
       comments: true
   # _publications
   - scope:
