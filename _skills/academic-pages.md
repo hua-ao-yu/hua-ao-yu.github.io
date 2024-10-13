@@ -1,5 +1,5 @@
 ---
-title: "个人学术网站制作教程"
+title: "个人学术网站 / Personal Academic Page"
 collection: skills
 type: "skills"
 permalink: /skills/academic-pages
