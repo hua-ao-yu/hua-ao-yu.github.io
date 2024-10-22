@@ -45,7 +45,6 @@ location: "China"
 # 3、键盘锁
 
 &emsp; 下面的5个软件都是从[这个帖子](https://www.52pojie.cn/thread-1176577-1-1.html)上下载的。
-
 ## &emsp; 3.1、KeyFreeze <br> 
 &emsp; 该[软件](http://hua-ao-yu.github.io/files/KeyFreeze（键盘鼠标锁）.exe)可以个性化设置键盘锁。
 <img src='/images/blogs/skills/Useful Tools/3.1、KeyFreeze.jpg' width="500" style="display: block; margin: 0 auto;">
@@ -64,13 +63,13 @@ location: "China"
 
 ## &emsp; 3.5、XWiNKEY <br> 
 &emsp; 该[软件](http://hua-ao-yu.github.io/files/XWiNKEY.exe)通过勾选来选择禁用的键位。
-<img src='/images/blogs/skills/Useful Tools/3.5、XWiNKEY.jpg' width="500" style="display: block; margin: 0 auto;">
+<img src='/images/blogs/skills/Useful Tools/3.5、XWiNKEY.jpg' width="300" style="display: block; margin: 0 auto;">
 
 # X、有用的妙妙工具
 
 ## &emsp; X.1、OCR识别quicker <br> 
 &emsp; 该[网站](https://getquicker.net/Download)可以二值化上传的图像，并调整阈值。
-<img src='/images/blogs/skills/Useful Tools/3.1、quicker.png' width="500" style="display: block; margin: 0 auto;">
+<img src='/images/blogs/skills/Useful Tools/X.1、quicker.png' width="300" style="display: block; margin: 0 auto;">
 
 ## &emsp; X.2、手机OCR方法 <br> 
 &emsp; 该[网站](https://zhuanlan.zhihu.com/p/71136953)以及这个[网站](https://xiaoyi.vc/free-ocr.html)可以OCR。
@@ -83,7 +82,7 @@ location: "China"
 
 ## &emsp; X.5、免费字体 <br> 
 &emsp; 该[网站](https://www.100font.com/)可以下载种类非常多的免费字体。
-<img src='/images/blogs/skills/Useful Tools/X.5、免费字体.jpg' width="500" style="display: block; margin: 0 auto;">
+<img src='/images/blogs/skills/Useful Tools/X.5、免费字体.jpg' width="800" style="display: block; margin: 0 auto;">
 
 # Y、一些可能有用但又没什么用的妙妙武器
 
