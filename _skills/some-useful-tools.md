@@ -81,6 +81,9 @@ location: "China"
 ## &emsp; X.4、前端哥工具箱 <br> 
 &emsp; 该[网站](https://tool.qianduange.cn/)是个非常非常全的工具箱，包括图片处理、视频处理、B站弹幕查询、QQ工具等。
 
+## &emsp; X.5、免费字体 <br> 
+&emsp; 该[网站](https://www.100font.com/)可以下载种类非常多的免费字体。
+<img src='/images/blogs/skills/Useful Tools/X.5、免费字体.jpg' width="500" style="display: block; margin: 0 auto;">
 
 # Y、一些可能有用但又没什么用的妙妙武器
 
